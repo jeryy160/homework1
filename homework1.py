@@ -24,7 +24,7 @@ print("AGE:",age)
 print("HEIGHT",height)
 print("IS_STUDENT",is_student)
 
-
+print("good job")
 name = "jhon"  #string
 age = 32  #integer
 city = "los angelos" #string
